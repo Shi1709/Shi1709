@@ -28,21 +28,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### 🩺 Diabetes Prediction Model  
-- **92% accuracy** using **KNN, XGBoost, SVM** on 7,000+ patient records.  
-- Data preprocessing & feature optimization reduced false positives by **12%**.  
-
-### 🧪 Skin Cancer Detection Model  
-- **91% accuracy** using a **custom CNN** with data augmentation on 2,000+ images.  
-- Early detection with **model checkpointing & image classification**.  
-
-### 📦 Smart Inventory Routing Dashboard  
-- **Streamlit + Random Forest** model for real-time inventory routing.  
-- Reduced stockouts by **15%** & improved availability by **20%** with APIs.  
-
----
 
 ## 📊 GitHub Stats  
 
