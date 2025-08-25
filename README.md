@@ -14,9 +14,7 @@
 
 ---
 
-## 🛠️ Skills & Tools  
-
-## 🛠️ Skills  
+## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,6 +27,13 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+
+**HackerRank Badges:**  
+
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-3⭐%20Python-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0f0f0f)](https://www.hackerrank.com/)
+[![HackerRank C++](https://img.shields.io/badge/HackerRank-3⭐%20C++-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0f0f0f)](https://www.hackerrank.com/)
+
 
 ---
 
