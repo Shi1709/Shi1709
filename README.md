@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats  
 
 ![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shi1709&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shi1709&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shi1709&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
 ---
 
