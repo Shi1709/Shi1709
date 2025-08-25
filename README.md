@@ -1,8 +1,8 @@
 # Hi 👋, I'm Shishir Somir Mukherjee  
 
 🎓 CSE Undergraduate @ **VIT Bhopal University**  
-💡 Passionate about **Machine Learning, Data Analysis & Scalable Systems**  
-🚀 Building **ML Models, Dashboards & Real-world AI Solutions**  
+💡 Skilled in **C/C++, Python, Java, SQL** 
+🚀 Strong problem-solver with experience in **machine learning, data analysis, and building scalable systems**  
 
 ---
 
